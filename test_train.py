@@ -18,7 +18,7 @@ def sample_data():
         {
             "feature1": [1, 2, 3, 4, 5],
             "feature2": [6, 7, 8, 9, 10],
-            "fetal_health": [1, 1, 2, 3, 2],
+            "fetal_health2": [1, 1, 2, 3, 2],
         }
     )
     return data
